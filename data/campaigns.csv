@@ -1,0 +1,31 @@
+campaign_id,campaign_name,channel,start_date,end_date,spend
+C001,Google_Jan26_Acquisition,Google,2026-01-01,2026-01-31,55802
+C002,Google_Feb26_Acquisition,Google,2026-02-01,2026-02-28,43801
+C003,Google_Mar26_Acquisition,Google,2026-03-01,2026-03-31,55177
+C004,Google_Apr26_Acquisition,Google,2026-04-01,2026-04-30,52878
+C005,Google_May26_Acquisition,Google,2026-05-01,2026-05-31,72566
+C006,Google_Jun26_Acquisition,Google,2026-06-01,2026-06-30,72495
+C007,Instagram_Jan26_Acquisition,Instagram,2026-01-01,2026-01-31,32534
+C008,Instagram_Feb26_Acquisition,Instagram,2026-02-01,2026-02-28,29428
+C009,Instagram_Mar26_Acquisition,Instagram,2026-03-01,2026-03-31,38349
+C010,Instagram_Apr26_Acquisition,Instagram,2026-04-01,2026-04-30,46331
+C011,Instagram_May26_Acquisition,Instagram,2026-05-01,2026-05-31,41814
+C012,Instagram_Jun26_Acquisition,Instagram,2026-06-01,2026-06-30,49762
+C013,PaidAds_Jan26_Acquisition,Paid Ads,2026-01-01,2026-01-31,33770
+C014,PaidAds_Feb26_Acquisition,Paid Ads,2026-02-01,2026-02-28,27290
+C015,PaidAds_Mar26_Acquisition,Paid Ads,2026-03-01,2026-03-31,35233
+C016,PaidAds_Apr26_Acquisition,Paid Ads,2026-04-01,2026-04-30,37766
+C017,PaidAds_May26_Acquisition,Paid Ads,2026-05-01,2026-05-31,40755
+C018,PaidAds_Jun26_Acquisition,Paid Ads,2026-06-01,2026-06-30,35982
+C019,Referral_Jan26_ReferralBonus,Referral,2026-01-01,2026-01-31,15790
+C020,Referral_Feb26_ReferralBonus,Referral,2026-02-01,2026-02-28,20066
+C021,Referral_Mar26_ReferralBonus,Referral,2026-03-01,2026-03-31,16941
+C022,Referral_Apr26_ReferralBonus,Referral,2026-04-01,2026-04-30,24452
+C023,Referral_May26_ReferralBonus,Referral,2026-05-01,2026-05-31,22730
+C024,Referral_Jun26_ReferralBonus,Referral,2026-06-01,2026-06-30,21366
+C025,YouTube_Jan26_Acquisition,YouTube,2026-01-01,2026-01-31,28325
+C026,YouTube_Feb26_Acquisition,YouTube,2026-02-01,2026-02-28,29465
+C027,YouTube_Mar26_Acquisition,YouTube,2026-03-01,2026-03-31,41662
+C028,YouTube_Apr26_Acquisition,YouTube,2026-04-01,2026-04-30,45096
+C029,YouTube_May26_Acquisition,YouTube,2026-05-01,2026-05-31,48645
+C030,YouTube_Jun26_Acquisition,YouTube,2026-06-01,2026-06-30,34167
